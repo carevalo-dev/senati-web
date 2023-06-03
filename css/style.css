@@ -1,0 +1,7 @@
+:root{
+    --senati-color: #0A39E4;
+}
+
+.bg-senati {
+    background-color: var(--senati-color);
+}
