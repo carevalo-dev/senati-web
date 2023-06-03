@@ -5,3 +5,13 @@
 .bg-senati {
     background-color: var(--senati-color);
 }
+
+.carousel {
+    max-height: 550px;
+    overflow: hidden;
+}
+
+.d-block {
+    object-fit: cover;
+    object-position: center;
+}
